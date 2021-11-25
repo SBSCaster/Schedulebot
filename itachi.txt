@@ -1,0 +1,20 @@
+Monday; timeframe; description
+
+
+Tuesday; ''; ''
+
+
+Wendseday; ''; ''
+
+
+Thursday; ''; ''
+
+
+Friday; ''; ''
+
+
+Saturday; ''; ''
+
+
+Sunday; ''; ''
+
